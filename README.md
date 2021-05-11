@@ -27,9 +27,11 @@ A: Mainly in *Indonesian* 🇮🇩 , althought i could refactor it to *American 
 P.S : *English* is my second language, so don't expect the best out of me.
 
 
+
 **Q: How many programming language you are fluent in?**
 
 A: Currently, not many. I'm still learning about Python, Java, PHP, and JS (HTML and CSS too, for those who consider these 2 languages aren't part of programming).
+
 
 
 **Q: What is your first programming language?**
