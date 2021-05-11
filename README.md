@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Looks like you found out about my repo. Please, if there's anything that pique your interest, go ahead and `clone` it, `fork` it, however you want! (please, don't do it through illegal way, it's not worth it!)
+
+Name's Naufal Haidar. You could call me 'Naufal' or 'Heydar' .
+
+**Q: What kind of language used in this repo?**
+
+A: Mainly in *Indonesian* <p>&#127470</p>, althought i could refactor it to *English* <p>&#127482 </p>.
+P.S : *English* is my second language, so don't expect the best out of me.
