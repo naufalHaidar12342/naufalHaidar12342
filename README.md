@@ -20,11 +20,11 @@ Looks like you found out about my repo. Please, if there's anything that pique y
 Name's Naufal Haidar. You could call me 'Naufal' or 'Heydar' .
 
 
-**Q: What kind of language used in this repo?**
+**1. Q: What kind of language used in this repo?**
 
-A: Mainly in *Indonesian* 🇮🇩 , althought i could refactor it to *American English* 🇺🇸.
+- A: Mainly in *Indonesian* 🇮🇩 , althought i could refactor it to *American English* 🇺🇸.
 
-P.S : *English* is my second language, so don't expect the best out of me.
+- P.S : *English* is my second language, so don't expect the best out of me.
 
 
 
