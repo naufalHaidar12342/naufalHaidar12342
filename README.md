@@ -28,12 +28,13 @@ Name's Naufal Haidar. You could call me 'Naufal' or 'Heydar' .
 
 
 
-**Q: How many programming language you are fluent in?**
+**2. Q: How many programming language you are fluent in?**
 
-A: Currently, not many. I'm still learning about Python, Java, PHP, and JS (HTML and CSS too, for those who consider these 2 languages aren't part of programming).
+- A: Currently, not many. I'm still learning about Python, Java, PHP, and JS 
+  - (HTML and CSS too, for those who consider these 2 languages aren't part of programming).
 
 
 
-**Q: What is your first programming language?**
+**3. Q: What is your first programming language?**
 
-A: Well, Pyhton is my first language. I'm amazed on how Python could perform the same task but with less steps and the *English* terms being used as it's function are easier to comprehend, compared to Java. (on a small scale program, like giving output of arithmatic operation , for example)
+- A: Well, Pyhton is my first language. I'm amazed on how Python could perform the same task but with less steps and the *English* terms being used as it's function are easier to comprehend, compared to Java. (on a small scale program, like giving output of arithmatic operation , for example)
