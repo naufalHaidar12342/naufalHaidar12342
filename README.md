@@ -24,7 +24,7 @@ Name's Naufal Haidar. You could call me 'Naufal' or 'Heydar' .
 
 - A: Mainly in *Indonesian* 🇮🇩 , althought i could refactor it to *American English* 🇺🇸.
 
-- P.S : *English* is my second language, so don't expect the best out of me.
+  - P.S : *English* is my second language, so don't expect the best out of me.
 
 
 
