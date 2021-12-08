@@ -15,26 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Looks like you found out about my repo. Please, if there's anything that pique your interest, go ahead and `clone` it, `fork` it, however you want! (please, don't do it through illegal way, it's not worth it!)
-
-Name's Naufal Haidar. You could call me 'Naufal' or 'Heydar' .
-
-
-**1. Q: What kind of language used in this repo?**
-
-- A: Mainly in *Indonesian* 🇮🇩 , althought i could refactor it to *American English* 🇺🇸.
-
-  - P.S : *English* is my second language, so don't expect the best out of me.
-
-
-
-**2. Q: How many programming language you are fluent in?**
-
-- A: Currently, not many. I'm still learning about Python, Java, PHP, and JS 
-  - (HTML and CSS too, for those who consider these 2 languages aren't part of programming).
-
-
-
-**3. Q: What is your first programming language?**
-
-- A: Well, Pyhton is my first language. I'm amazed on how Python could perform the same task but with less steps and the *English* terms being used as it's function are easier to comprehend, compared to Java. (on a small scale program, like giving output of arithmatic operation , for example)
+- 🌱 I’m currently learning PHP, Java (Android Development)
+- 👯 I’m looking to collaborate on website project, Android app project
+- 📫 How to reach me: [Telegram](https://t.me/heydar12342)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Somehow i feel sleepy all time back at high school
