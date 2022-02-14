@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning PHP, Java (Android Development)
+- 🌱 I’m currently learning PHP, Java (Android Development), Kotlin (Android Development)
 - 👯 I’m looking to collaborate on website project, Android app project
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
 - 😄 Pronouns: He/Him
