@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning PHP, Java (Android Development), Kotlin (Android Development)
+- 🌱 I’m learning PHP, Java (Android Development), Kotlin (Android Development), Javascript. Currently, I'm more focused learning toward Android Development using Kotlin
 - 👯 I’m looking to collaborate on website project, Android app project
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Somehow i feel sleepy all time back at high school
+- ⚡ Fun fact: Somehow i feel sleepy all time back at high school. And until nowaday
 
 ## Most used language
 
-Here's a list consist of programming languages that I use.
+Here's a list of programming language that mostly used in my repository.
 
 > Credit goes to Mr. Anurag Harza through his project : <https://github.com/anuraghazra/github-readme-stats>
 
