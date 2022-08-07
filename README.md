@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m learning PHP, Java (Android Development), Kotlin (Android Development), Javascript. Currently, I'm more focused learning toward Android Development using Kotlin
-- 👯 I’m looking to collaborate on website project, Android app project
+- 👯 I’m looking to collaborate on website project and especially Android app project
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him. Or you just call me Haidar or Naufal. Both works, people.
 - ⚡ Fun fact: Somehow i feel sleepy all time back at high school. And until nowaday
 
 ## Most used language
