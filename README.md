@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m learning PHP, Java (Android Development), Kotlin (Android Development), Javascript. Currently, I'm more focused learning toward Android Development using Kotlin
+- 🌱 Currently learns about Kotlin (Android Development), Javascript, Python, and ontology using .owl
 - 👯 I’m looking to collaborate on website project and especially Android app project
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
-- 😄 Pronouns: He/Him. Or you just call me Haidar or Naufal. Both works, people.
+- 😄 Pronouns: He/Him. Or you just call me Haidar or Naufal. No pressure,guys.
 - ⚡ Fun fact: Somehow i feel sleepy all time back at high school. And until nowaday
 
 ## Most used language
