@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Currently learns about Kotlin (Android Development), Javascript, Python, and ontology using .owl
+- 🌱 Currently learns about Kotlin (Android Development), Javascript (Next.js, React.js), RASA Platform
 - 👯 I’m looking to collaborate on website project and especially Android app project
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
 - 😄 Pronouns: He/Him. Or you just call me Haidar or Naufal. No pressure,guys.
