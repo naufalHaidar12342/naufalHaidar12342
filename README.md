@@ -32,4 +32,4 @@ Here's a list of programming language that mostly used in my repository.
 
 ## Updates
 
-March 14th, 2023 - My personal website is live! Go check it out! :[naufalHaidar12342](https://my-personal-blog-nextjs-naufalhaidar12342.vercel.app/)
+March 14th, 2023 - My personal website is live! Go check it out! :[naufalHaidar12342](https://naufalhaidar12342-vert.vercel.app/)
