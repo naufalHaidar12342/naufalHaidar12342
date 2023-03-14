@@ -28,3 +28,8 @@ Here's a list of programming language that mostly used in my repository.
 > Credit goes to Mr. Anurag Harza through his project : <https://github.com/anuraghazra/github-readme-stats>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalHaidar12342&theme=gruvbox&langs_count=5&layout=compact)](https://github.com/naufalHaidar12342/github-readme-stats)
+
+
+### Updates
+
+March 14th, 2023 - My personal website is live! Go check it out! :[naufalHaidar12342](https://my-personal-blog-nextjs-naufalhaidar12342.vercel.app/)
