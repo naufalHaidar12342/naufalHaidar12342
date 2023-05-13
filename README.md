@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Currently learns about Kotlin (Android Development), Javascript (Next.js, React.js), RASA Platform, Chatbot
-  - I'm taking a break from Android dev.
+-  🏫 Final year of Bachelor of Informatics at Universitas Dian Nuswantoro.
+  - 📃 Currently working on paper as replacement for thesis that is required to graduate.
+- 🌱 Currently learns about Javascript (Next.js, React.js), Chatbot (RASA Platform, etc)
+  - 🏖️ I'm taking a break from Android dev. I don't know yet when I come back playing with Android Studio 🤣😭
 - 👯 I’m looking to collaborate on website project. For android based project, I'm taking a break for now.
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
 - 😄 Pronouns: He/Him. Or you just call me Haidar or Naufal.
@@ -26,7 +28,7 @@ Here are some ideas to get you started:
 
 Here's a list of programming language that mostly used in my repository.
 
-> Credit goes to Mr. Anurag Harza through his project : <https://github.com/anuraghazra/github-readme-stats>
+> Credit goes to Mr. Anurag Harza through his project : <https://github.com/anuraghazra/github-readme-stats> . Give him some love by starring his project! If you have
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalHaidar12342&theme=gruvbox&langs_count=5&layout=compact)](https://github.com/naufalHaidar12342/github-readme-stats)
 
