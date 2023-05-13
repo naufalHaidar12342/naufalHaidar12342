@@ -32,4 +32,5 @@ Here's a list of programming language that mostly used in my repository.
 
 ## Updates
 
-March 14th, 2023 - My personal website is live! Go check it out! :[naufalHaidar12342](https://naufalhaidar12342-vert.vercel.app/)
+- March 14, 2023: My personal website is live! Go check it out! :[naufalHaidar12342](https://naufalhaidar12342-vert.vercel.app/)
+- May 13, 2023: Status page for my blog/personal website is live! Visit [naufalHaidar12342's status page](https://stats.uptimerobot.com/mWRoBcpQKO)
