@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on website project and especially Android app project
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
 - 😄 Pronouns: He/Him. Or you just call me Haidar or Naufal.
-- ⚡ Fun fact: Somehow i feel sleepy all time back at high school. And until nowaday
+- ⚡ Fun fact: Somehow i feel sleepy between 10-11 am, all the way back at high school. And until nowaday. I guess I'm not morning person 😭🤣
 
-## Most used language
+## Most used language 🗣️
 
 Here's a list of programming language that mostly used in my repository.
 
@@ -30,7 +30,7 @@ Here's a list of programming language that mostly used in my repository.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalHaidar12342&theme=gruvbox&langs_count=5&layout=compact)](https://github.com/naufalHaidar12342/github-readme-stats)
 
 
-## Updates
+## Updates 📝
 
 - March 14, 2023: My personal website is live! Go check it out! :[naufalHaidar12342](https://naufalhaidar12342-vert.vercel.app/)
 - May 13, 2023: Status page for my blog/personal website is live! Visit [naufalHaidar12342's status page](https://stats.uptimerobot.com/mWRoBcpQKO)
