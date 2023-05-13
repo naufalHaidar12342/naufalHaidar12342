@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Currently learns about Kotlin (Android Development), Javascript (Next.js, React.js), RASA Platform, Chatbot
-- 👯 I’m looking to collaborate on website project and especially Android app project
+  - I'm taking a break from Android dev.
+- 👯 I’m looking to collaborate on website project. For android based project, I'm taking a break for now.
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
 - 😄 Pronouns: He/Him. Or you just call me Haidar or Naufal.
 - ⚡ Fun fact: Somehow i feel sleepy between 10-11 am, all the way back at high school. And until nowaday. I guess I'm not morning person 😭🤣
