@@ -1,4 +1,14 @@
-# Hi there 👋
+<!-- # Hi there 👋 -->
+
+# Rest in Peace, [devardha](https://github.com/devardha)
+
+![Yudhatama Indra Wardhana Setyabudi a.k.a devardha](https://avatars.githubusercontent.com/u/59217768?v=4)
+
+_Mr. Ardha passed away at July 25, 2023. An Islamic funeral was held the next day, at July 26, 2023._
+
+He was a mentor and good friend to me. He is the one who motivates me to learn JavaScript and web development. I lost count on how many times I asked him to teach me about web development or programming in general.
+
+_Farewell, devardha._
 
 <!--
 **naufalHaidar12342/naufalHaidar12342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  🏫 Final year of Bachelor of Informatics at Universitas Dian Nuswantoro.
-  -  📃 Currently working on paper as replacement for thesis that is required to graduate.
+## About me
+
+- 🏫 Final year of Bachelor of Informatics at Universitas Dian Nuswantoro.
+- 📃 Currently working on paper as replacement for thesis that is required to graduate.
 - 🌱 Currently learns about Javascript (Next.js, React.js), Chatbot (RASA Platform, etc)
   - 🏖️ I'm taking a break from Android dev. I don't know yet when I come back playing with Android Studio 🤣😭
 - 👯 I’m looking to collaborate on website project. For android based project, I'm taking a break for now.
@@ -32,8 +44,8 @@ Here's a list of programming language that mostly used in my repository.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalHaidar12342&theme=gruvbox&langs_count=5&layout=compact)](https://github.com/naufalHaidar12342/github-readme-stats)
 
-
 ## Updates 📝
 
 - March 14, 2023: My personal website is live! Go check it out! :[naufalHaidar12342](https://naufalhaidar12342-vert.vercel.app/)
 - May 13, 2023: Status page for my blog/personal website is live! Visit [naufalHaidar12342's status page](https://stats.uptimerobot.com/mWRoBcpQKO)
+- July 28, 2023: This README section will feature the passing of my good friend, [devardha](https://github.com/devardha)
