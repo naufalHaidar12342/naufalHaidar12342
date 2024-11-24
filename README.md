@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🏫 Bachelor of Informatics at Universitas Dian Nuswantoro (yippie I graduated in April !😊😭).
 - 📃 My thesis is now available to read on IEEE Xplore : [Human-Robot Interaction on Elderly Companion Robot Development Using Dual Intent Entity Transformer](https://ieeexplore.ieee.org/document/10405316)
 - 🌱 Learns about Javascript (Next.js, React.js), Chatbot (RASA Platform, etc)
-  - 🏖️ I'm taking a break from Android dev. I don't know yet when I come back playing with Android Studio 🤣😭
+  - 🏖️ I'm taking a break from Android dev. But, I'm planning to get back to it using React Native instead of Kotlin.
 - 👯 I’m looking to collaborate on website project. For android based project, I'm taking a break for now.
 - 📫 How to reach me: [Telegram](https://t.me/heydar12342)
 - 😄 Pronouns: He/Him. Or you just call me Haidar or Naufal.
