@@ -12,14 +12,21 @@ Web Developer/Web Programmer with 1.5 years of experience in designing, develop,
 
 ## Skills
 
+- HTML (Intermediate)
+- CSS (Intermediate)
 - Next.js (Intermediate)
 - Tailiwnd CSS (Intermediate)
+- Headless CMS, e.g. Hygraph, Contentful (Intermediate)
+- Git (Beginner)
 - UI/UX Design (Beginner)
 
 ### Tools
 
-- Figma (Intermediate)
-- Visual Studio Code (Intermediate)
+[![Tools I use](https://skillicons.dev/icons?i=figma,vscode,react,next,tailwind,html,css,js)](https://skillicons.dev)
+
+## Interest
+
+I am interested in discovering what kind of technologies that powers up a website, using Wappalyzer, and do some quick read about it. Aside from front-end development, I want to re-learn mobile development using Kotlin and want to try to learn about React Native.
 
 ## Professional Experience
 
