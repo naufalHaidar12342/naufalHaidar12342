@@ -1,8 +1,8 @@
 # Hi, I am Naufal Haidar Rauf 👋
 
 - 📌Semarang, Indonesia
-- [LinkedIn Profile]("https://www.linkedin.com/in/naufal-haidar-rauf/")
-- [Portofolio]("https://hydare.vercel.app")
+- [LinkedIn Profile](https://www.linkedin.com/in/naufal-haidar-rauf/)
+- [Portofolio](https://hydare.vercel.app)
 
 ---
 
