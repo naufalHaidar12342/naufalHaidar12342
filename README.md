@@ -15,9 +15,10 @@ Web Developer/Web Programmer with 1.5 years of experience in designing, develop,
 - HTML (Intermediate)
 - CSS (Intermediate)
 - Next.js (Intermediate)
-- Tailiwnd CSS (Intermediate)
+- Tailwind CSS (Intermediate)
 - Headless CMS, e.g. Hygraph, Contentful (Intermediate)
 - Git (Beginner)
+- GitHub (Intermediate)
 - UI/UX Design (Beginner)
 
 ### Tools
@@ -40,3 +41,7 @@ I am interested in discovering what kind of technologies that powers up a websit
 ## Achievements
 
 Final thesis as conference proceeding, available at IEEE Xplore : [Human-Robot Interaction on Elderly Companion Robot Development Using Dual Intent Entity Transformer](https://ieeexplore.ieee.org/document/10405316)
+
+This paper explore the development of chatbot using RASA, an AI Agent platform that provides ready-to-use model with great customization, in part for building elderly companion robot to assist caretaker in Harapan Ibu Nursing Home, Semarang, Indonesia. As the author of this paper, initially I am tasked with developing the front-end/graphical user interface using React.js but in the later stage of development I also helps the back-end team with integrating RASA API into the chatbot. The decision to use DIET (Dual Intent Entity Transformer) was due to its practical use with RASA and state-of-the-art status, since there are not many research of chatbot development using DIET architecture
+
+As of now, the chatbot development is on pause due to lack of manpower, funding, and time. I am currently focused on developing my skills to be full-stack developer, but when the time is right it is possible to resume the progress of this chatbot development
