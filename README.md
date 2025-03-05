@@ -39,7 +39,7 @@ I am interested in discovering what kind of technologies that powers up a websit
    - Skills learned: Next.js 14 App Router, Tailwind CSS, Figma, and Headless CMS
 
 2. **August 2022 - December 2023: Front-end Developer on Human-Robot Interaction team on Universitas Dian Nuswantoro**
-   - Skills learned: Team work, [RASA](https://rasa.com/) Conversational AI Platform (for developing machine learning model),
+   - Skills learned: Team work, [RASA](https://rasa.com/) Conversational AI Platform (for developing machine learning model), Machine learning, REST API
 
 ## Achievements
 
