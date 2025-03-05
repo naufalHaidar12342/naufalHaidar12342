@@ -38,12 +38,12 @@ I am interested in discovering what kind of technologies that powers up a websit
    - Skills learned: Next.js 14 App Router, Tailwind CSS, Figma, and Headless CMS
 
 2. **August 2022 - December 2023: Front-end Developer on Human-Robot Interaction team on Universitas Dian Nuswantoro**
-   - Skills learned: Team work, RASA Platform (for developing machine learning model),
+   - Skills learned: Team work, [RASA](https://rasa.com/) Conversational AI Platform (for developing machine learning model),
 
 ## Achievements
 
 Final thesis as conference proceeding, available at IEEE Xplore : [Human-Robot Interaction on Elderly Companion Robot Development Using Dual Intent Entity Transformer](https://ieeexplore.ieee.org/document/10405316)
 
-This paper explore the development of chatbot using RASA, an AI Agent platform that provides ready-to-use model with great customization, in part for building elderly companion robot to assist caretaker in Harapan Ibu Nursing Home, Semarang, Indonesia. As the author of this paper, initially I am tasked with developing the front-end/graphical user interface using React.js but in the later stage of development I also helps the back-end team with integrating RASA API into the chatbot. The decision to use DIET (Dual Intent Entity Transformer) was due to its practical use with RASA and state-of-the-art status, since there are not many research of chatbot development using DIET architecture
+This paper explore the development of chatbot using [RASA](https://rasa.com/), an Conversational AI platform that provides ready-to-use model with great customization, in part for building elderly companion robot to assist caretaker in Harapan Ibu Nursing Home, Semarang, Indonesia. As the author of this paper, initially I am tasked with developing the front-end/graphical user interface using React.js but in the later stage of development I also helps the back-end team with integrating RASA API into the chatbot. The decision to use DIET (Dual Intent Entity Transformer) was due to its practical use with RASA and state-of-the-art status, since there are not many research of chatbot development using DIET architecture
 
 As of now, the chatbot development is on pause due to lack of manpower, funding, and time. I am currently focused on developing my skills to be full-stack developer, but when the time is right it is possible to resume the progress of this chatbot development
