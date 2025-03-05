@@ -20,6 +20,7 @@ Web Developer/Web Programmer with 1.5 years of experience in designing, develop,
 - Git (Beginner)
 - GitHub (Intermediate)
 - UI/UX Design (Beginner)
+- [RASA Conversational AI Platform](https://github.com/RasaHQ/rasa) (Beginner)
 
 ### Tools
 
