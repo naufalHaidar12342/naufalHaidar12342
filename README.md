@@ -14,10 +14,10 @@ Web Developer/Web Programmer with 1.5 years of experience in designing, develop,
 
 - HTML (Intermediate)
 - CSS (Intermediate)
-- Next.js (Intermediate)
-- Tailwind CSS (Intermediate)
+- [Next.js](https://nextjs.org) (Intermediate)
+- [Tailwind CSS](https://tailwindcss.com/) (Intermediate)
 - Headless CMS, e.g. Hygraph, Contentful (Intermediate)
-- Git (Beginner)
+- [Git](https://git-scm.com/) (Beginner)
 - GitHub (Intermediate)
 - UI/UX Design (Beginner)
 - [RASA Conversational AI Platform](https://github.com/RasaHQ/rasa) (Beginner)
