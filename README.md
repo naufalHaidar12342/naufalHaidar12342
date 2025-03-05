@@ -23,6 +23,8 @@ Web Developer/Web Programmer with 1.5 years of experience in designing, develop,
 
 ### Tools
 
+> Icons from skillicons project by [tandpfun](https://github.com/tandpfun/skill-icons)
+
 [![Tools I use](https://skillicons.dev/icons?i=figma,vscode,react,next,tailwind,html,css,js)](https://skillicons.dev)
 
 ## Interest
