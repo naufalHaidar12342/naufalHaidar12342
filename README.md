@@ -51,4 +51,4 @@ As of now, the chatbot development is on pause due to lack of manpower, funding,
 
 ## Need a website?
 
-Feel free to message me on [Sribu](https://www.sribu.com/id/users/nhweb12342) (Freelance platform based in Indonesia) or my email (business.hydare@proton.me) to discuss your websites requirements. Thank you!
+Feel free to message me on [Sribu](https://www.sribu.com/id/users/nhweb12342) (Freelance platform based in Indonesia) or my email (business.hydare@proton.me) to discuss further details. Thank you!
