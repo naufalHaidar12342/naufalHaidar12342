@@ -48,3 +48,7 @@ Final thesis as conference proceeding, available at IEEE Xplore : [Human-Robot I
 This paper explore the development of chatbot using [RASA](https://rasa.com/), an Conversational AI platform that provides ready-to-use model with great customization, in part for building elderly companion robot to assist caretaker in Harapan Ibu Nursing Home, Semarang, Indonesia. As the author of this paper, initially I am tasked with developing the front-end/graphical user interface using React.js but in the later stage of development I also helps the back-end team with integrating RASA API into the chatbot. The decision to use DIET (Dual Intent Entity Transformer) was due to its practical use with RASA and state-of-the-art status, since there are not many research of chatbot development using DIET architecture
 
 As of now, the chatbot development is on pause due to lack of manpower, funding, and time. I am currently focused on developing my skills to be full-stack developer, but when the time is right it is possible to resume the progress of this chatbot development
+
+## Need a website?
+
+Feel free to message me on [Sribu](https://www.sribu.com/id/users/nhweb12342) (Freelance platform based in Indonesia) or my email (business.hydare@proton.me) to discuss your websites requirements. Thank you!
